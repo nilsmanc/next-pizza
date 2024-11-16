@@ -1,8 +1,8 @@
 import React from 'react'
 
-import { FilterCheckbox } from '@/components/shared/filter-checkbox'
-import { Input } from '@/components/ui/input'
-import { CheckboxFiltersGroup } from '@/components/shared/checkbox-filters-group'
+import { FilterCheckbox } from '@/shared/components/shared/filter-checkbox'
+import { Input } from '@/shared/components/ui/input'
+import { CheckboxFiltersGroup } from '@/shared/components/shared/checkbox-filters-group'
 import { Title } from './title'
 import { RangeSlider } from '../ui/range-slider'
 
