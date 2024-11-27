@@ -5,7 +5,7 @@ import { Container } from './container'
 import { Button } from '../ui/button'
 import { ArrowRight, ShoppingCart } from 'lucide-react'
 import { SearchInput } from './search-input'
-import { cn } from '@/lib/utils'
+import { cn } from '@/shared/lib/utils'
 import { CartDrawer } from './cart-drawer'
 
 interface Props {

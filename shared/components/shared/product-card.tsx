@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from '@/shared/components/ui/button'
 import { Plus } from 'lucide-react'
-import { cn } from '@/lib/utils'
+import { cn } from '@/shared/lib/utils'
 import { Title } from './title'
 import { CountButton } from './count-button'
 
